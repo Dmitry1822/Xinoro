@@ -9,7 +9,8 @@
 	require_once("core/core/model.php");
 	require_once("core/core/view.php");
 	require_once("core/core/controller.php");
-	require_once("core/core/db.php");
+	require_once("core/core/db.php");\
+	jgesropgjmeopmgjpsdjghosdlk;gfnaskofgmnawksgjaeojfaes;gfeso;fgjaegjopgdspjsdgjasj
 
 	# create router and start xinoro
 	$router = new Router();
